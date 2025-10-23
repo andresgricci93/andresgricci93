@@ -7,6 +7,7 @@
 ![ChromaDB](https://img.shields.io/badge/chromadb-%23FF6F00.svg?style=for-the-badge&logo=chromadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23593d88.svg?style=for-the-badge&logoColor=white)
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=andresgricci93&theme=dark&hide_border=false)<br/>
