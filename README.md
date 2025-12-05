@@ -1,4 +1,5 @@
 ## Hey, I'm Andrés 👋
+**4+ years** building web applications for enterprise clients.
 
 Full Stack Developer | React • Node.js | AI & RAG
 
