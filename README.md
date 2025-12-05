@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hey, I'm Andrés 👋
+
+Full Stack Developer | React • Node.js | AI & RAG
+
+## 🔧 Tech Stack
+- **Frontend:** React, JavaScript, Tailwind
+- **Backend:** Node.js, Express, MongoDB
+- **AI:** RAG, ChromaDB, Gemini API
+
+## 📚 Currently Learning
+- Agentic RAG
+
+## 🔮 Next Up
+- MCP (Model Context Protocol)
+- AWS Cloud
+- n8n (Automation)
+
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/andrés-ricci-84324a1b2
 
 
 
