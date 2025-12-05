@@ -3,11 +3,6 @@
 
 Full Stack Developer | React • Node.js | AI & RAG
 
-## 🔧 Tech Stack
-- **Frontend:** React, JavaScript, Tailwind
-- **Backend:** Node.js, Express, MongoDB
-- **AI:** RAG, ChromaDB, Gemini API
-
 ## 📚 Currently Learning
 - Agentic RAG
 
