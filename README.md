@@ -22,9 +22,12 @@ Full Stack Developer | React • Node.js | AI & RAG
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-%23593d88.svg?style=for-the-badge&logoColor=white)
+
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=andresgricci93&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img height="200" src="https://github-readme-stats-neon-beta-89.vercel.app/api?username=andresgricci93&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="195" src="https://github-readme-stats-neon-beta-89.vercel.app/api/top-langs/?username=andresgricci93&layout=donut&show_icons=true&theme=radical" alt="Top languages" />
+</p>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
