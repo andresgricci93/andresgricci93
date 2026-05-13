@@ -11,8 +11,7 @@ Full Stack Developer | React • Node.js | AI & RAG
 - n8n (Automation)
 
 
-## 📫 Contact
-- LinkedIn: www.linkedin.com/in/andrés-ricci-84324a1b2
+
 
 
 
