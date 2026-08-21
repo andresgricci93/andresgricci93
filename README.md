@@ -22,11 +22,11 @@ Full Stack Developer | React • Node.js | AI & RAG
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-%23593d88.svg?style=for-the-badge&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats-neon-beta-89.vercel.app/api?username=andresgricci93&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="195" src="https://github-readme-stats-neon-beta-89.vercel.app/api/top-langs/?username=andresgricci93&layout=donut&show_icons=true&theme=radical" alt="Top languages" />
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
 
 
