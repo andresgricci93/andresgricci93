@@ -1,27 +1,25 @@
 ## Hey, I'm Andrés 👋
 
-**Full Stack Developer | React • Node.js | AI Engineering**
+I'm a Full Stack Developer deepening my focus on **AI Engineering**.
 
-I'm a Full Stack Developer currently deepening my focus on **AI Engineering**.
+At work, I'm building software across the full stack while working with **MCP, system integrations, and AI-powered tooling**, exploring how these technologies can be applied to real-world software systems.
 
-I'm expanding beyond AI integration to develop a deeper understanding of how AI-powered systems work, how they are designed and built, and how to turn these capabilities into useful software products.
-
-I'm currently working on **AI-powered applications, MCP integrations, and dynamic application platforms**, while exploring how software components can be built, composed, and rendered dynamically at runtime.
+Outside of work, I'm still eager to learn and experiment alongside my hobbies and other interests. I'm particularly interested in **AI agents, orchestration, autonomous workflows, and the systems behind AI-powered software**. I enjoy exploring how software components can be composed and coordinated to build more capable systems.
 
 ### 📚 Currently Learning
 
 - AI Engineering & Machine Learning fundamentals
 - Generative AI & LLMs
 - AI Systems & Architecture
-- Agents & AI-powered workflows
+- Agents, orchestration & AI-powered workflows
 - Retrieval & Knowledge Systems
 - Mathematical concepts behind AI
 
 ### 🚀 Direction
 
-**From AI Integrator → AI Engineer**
+I'm currently building and experimenting with my own projects around these ideas, exploring how multiple AI capabilities can be composed into larger software systems, from reasoning and tool use to execution and feedback loops.
 
-My goal is to combine my software engineering background with a deeper understanding of AI, moving from integrating AI capabilities into applications to being able to **design, build, understand, and explain AI-powered systems end to end.**
+My goal is to keep moving deeper into AI Engineering, combining my software engineering background with a strong understanding of how AI-powered systems are designed, built, and orchestrated.
 
 
 
